@@ -5,7 +5,7 @@ import random
 from time import process_time
 
 MAX_VALUE = 999999
-DEFAULT_SIZE = 5000
+DEFAULT_SIZE = 1000
 DEFAULT_TRIALS = 5
 
 
