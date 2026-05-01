@@ -11,6 +11,12 @@ int main( void ) {
     // iterate through each character of the string
     // every time you find a space ' ' assign a new token to argv[]
 
+    //come back to, had the lunch meeting
+    //for( int b=10, b>*argc; argc++) {
+    //    printf ("%s\n",pch);
+    //    
+    //}
+
     // check output for argc,argv
     printf("argc = %d\n",argc);
     for( int k=0; k<argc; k++ ) {
